@@ -9,6 +9,8 @@ git branch
 git checkout -b <branch name>
  -d for delete 
 
+git switch <branch name > # for switch branch 
+
 git add # ready for next commit
 git commit -m " message "
 # viewing changes 
