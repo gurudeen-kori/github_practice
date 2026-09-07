@@ -2,6 +2,6 @@ name = "Gurudeen Kori"
 role = "DevOps Engineer"
 skill = "linux"
 
-print(name)
-print(role)
-print(skill)
+print(f"Name: {name}")
+print(f"Role: {role}")
+print(f"Skill: {skill}")
