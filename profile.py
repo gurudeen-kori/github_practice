@@ -4,4 +4,6 @@ skill = "linux"
 
 print(f"Name: {name}")
 print(f"Role: {role}")
-print(f"Skill: {skill}")
+
+for skill in skills:
+    print(f"Skill: {skill}")
