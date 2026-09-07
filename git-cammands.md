@@ -28,3 +28,5 @@ git rm #  for remove file
 git status 
 
 git log 
+
+addecd 
