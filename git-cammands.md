@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # setup And config 
 - git init # initialize the repository 
 - git config --global user.name <name>
